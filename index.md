@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Welcome to Rithwik Gupta's Webiste.
 
-You can use the [editor on GitHub](https://github.com/Rithwik-G/homepage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here you will explore programming in a way you never have before.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+But, first...
 
-### Markdown
+A little bit about the man in question.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Rithwik is an passionate programmer and a problem-solver. He enjoys programming and math due to how they are elegant and force the user to think outside of the box. He has done many competitions and hobby projects in the fields of programming and math, but he also has explored and done competitions in robotics and science. He is always looking for ways to make the world a better place and for ways to expand his knowledge.
 
-```markdown
-Syntax highlighted code block
+# Major Accomplisments
 
-# Header 1
-## Header 2
-### Header 3
+Computer Science: Rithwik has done the USACO contest and is currently in the Silver division. He is hoping to reach gold this December.
 
-- Bulleted
-- List
+Math: Rithwik placed 5th nationally in the beestar math competition. He took the Fall 2021 AMC 10 A and B and is anxiously waiting for the results.
 
-1. Numbered
-2. List
+Robotics: Rithwik is the captain of a FIRST Tech Challenge Team. He has led this team to qualifying for the Northern California Regional Championships in the team's first year. He is hoping to become top 10 in NorCal this year.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Rithwik-G/homepage/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
