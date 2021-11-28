@@ -12,7 +12,10 @@ Rithwik is an passionate programmer and a problem-solver. He enjoys programming 
 
 Computer Science: Rithwik has done the USACO contest and is currently in the Silver division. He is hoping to reach gold this December.
 
-Math: Rithwik placed 5th nationally in the beestar math competition. He took the Fall 2021 AMC 10 A and B and is anxiously waiting for the results.
+Math: Rithwik placed 5th nationally in the beestar math competition. He took the Fall 2021 AMC 10 A and B and is anxiously waiting for the results. Last year, he took the 2021 AMC 10 A and B and was 2 questions away from qualifying for AIME.
 
 Robotics: Rithwik is the captain of a FIRST Tech Challenge Team. He has led this team to qualifying for the Northern California Regional Championships in the team's first year. He is hoping to become top 10 in NorCal this year.
 
+# Programming Projects
+
+varhist python package: This is a very useful debugging python package that lets you view the variable history of variables through you python code. Download here: [varhist package][https://pypi.org/project/varhist/]
