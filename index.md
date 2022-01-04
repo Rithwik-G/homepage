@@ -1,4 +1,4 @@
-# Welcome to Rithwik Gupta's Webiste.
+# Welcome to Rithwik Gupta's Website
 
 Here you will explore programming in a way you never have before.
 
@@ -8,11 +8,11 @@ A little bit about the man in question.
 
 Rithwik is an passionate programmer and a problem-solver. He enjoys programming and math due to how they are elegant and force the user to think outside of the box. He has done many competitions and hobby projects in the fields of programming and math, but he also has explored and done competitions in robotics and science. He is always looking for ways to make the world a better place and for ways to expand his knowledge.
 
-Github: github.com/Rithwik-G
+Github: [github.com/Rithwik-G](github.com/Rithwik-G)
 
 Youtube:
-1. https://www.youtube.com/channel/UCzG8g_z1c-ISF2jpXY-lrpA
-2. https://www.youtube.com/channel/UCTWmziaylqjNIZWgchttMDw
+1. [https://www.youtube.com/channel/UCzG8g_z1c-ISF2jpXY-lrpA](https://www.youtube.com/channel/UCzG8g_z1c-ISF2jpXY-lrpA)
+2. [https://www.youtube.com/channel/UCTWmziaylqjNIZWgchttMDw](https://www.youtube.com/channel/UCTWmziaylqjNIZWgchttMDw)
 
 # Major Accomplisments
 
@@ -25,8 +25,8 @@ Robotics: Rithwik is the captain of a FIRST Tech Challenge Team. He has led this
 Science/Engineering Fair: Rithwik participated in the Alameda County Science and Engineering Fair in 2021. He created an app to help teachers track student's attendance and attention during online learning while also preventing unauthorized access to zoom classrooms. He won 2nd place in the Computer Science Division and has filed a provisional patent for it. He is also planning on taking part in the Science Fair this year.
 
 Links for 2021 Project:
-1. Study Results - https://youtu.be/CTZU84tkchY
-2. Demonstration - https://youtu.be/1dqfPDtY2d4
+1. Study Results - [https://youtu.be/CTZU84tkchY](https://youtu.be/CTZU84tkchY)
+2. Demonstration - [https://youtu.be/1dqfPDtY2d4](https://youtu.be/1dqfPDtY2d4)
 
 # Hackathons
 
@@ -35,11 +35,11 @@ Rithwik has participated in the Thetahacks I hackathon where he created the basi
 # Programming Projects
 
 varhist python package: This is a very useful debugging python package that lets you view the variable history of variables through you python code.
-Download here: [Varhist Package](https://pypi.org/project/varhist/)
+Download here: [https://pypi.org/project/varhist/](https://pypi.org/project/varhist/)
 
 Raspberry Pi Security System: Rithwik created a highly secure Raspberry Pi security system that utilized facial recognition.
 
-More Info: https://youtu.be/yWMNu5BW22M
+More Info: [https://youtu.be/yWMNu5BW22M](https://youtu.be/yWMNu5BW22M)
 
 
 
