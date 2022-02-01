@@ -1,14 +1,14 @@
 
 
 
-# Welcome to Rithwik Gupta's Website
+# Welcome to Rithwik Gupta's Website  
+  
 
-# News ↓
+<br>
+<br>
 
-<span style="color:#cfc734">
-<h1> 2022 AIME QUALIFIER (from 2021 Fall AMC 10 B!
-</h1>
-</span>
+## 2022 AIME QUALIFIER (from 2021 Fall AMC 10 B!
+
 
 Here you will learn about Rithwik Gupta
 
