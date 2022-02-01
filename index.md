@@ -1,6 +1,16 @@
+
+
+
 # Welcome to Rithwik Gupta's Website
 
-Here you will explore programming in a way you never have before.
+# News ↓
+
+<span style="color:#cfc734">
+<h1> 2022 AIME QUALIFIER (from 2021 Fall AMC 10 B!
+</h1>
+</span>
+
+Here you will learn about Rithwik Gupta
 
 But, first...
 
@@ -18,7 +28,7 @@ Youtube:
 
 Computer Science: Rithwik has done the USACO contest and is currently in the Silver division. He was 100 points away from Gold in the last contest and hopes to reach Gold in January.
 
-Math: Rithwik placed 5th nationally in the beestar math competition. He took the Fall 2021 AMC 10 A and B and is anxiously waiting for the results. Last year, he took the 2021 AMC 10 A and B and was 2 questions away from qualifying for AIME.
+Math: Rithwik placed 5th nationally in the beestar math competition. He took the Fall 2021 AMC 10 A and B and got a score of 105 on the AMC 10 B. This put him over the qualification mark for AIME, and invitational contest only the top 2.5% of students attend.
 
 Robotics: Rithwik is the captain of a FIRST Tech Challenge Team. He has led this team to qualifying for the Northern California Regional Championships in the team's first year. He is hoping to become top 10 in Northern Californai this year.
 
