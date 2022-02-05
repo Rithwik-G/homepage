@@ -7,7 +7,7 @@
 <br>
 <br>
 
-## 2022 AIME QUALIFIER (from 2021 Fall AMC 10 B!
+## 2022 AIME QUALIFIER (from 2021 Fall AMC 10 B!)
 
 
 Here you will learn about Rithwik Gupta
